@@ -18,21 +18,24 @@ public class Second {
         double z = Double.MAX_VALUE;
         z = z * 2;
 
-        System.out.println(z); //inf
-
-        System.out.println(z / 0);		// +infinity
-        System.out.println(-2.0f / 0);   // -infinity
-        System.out.println(2 / 0);		// error - divide by 0
-        System.out.println(Double.POSITIVE_INFINITY - Double.POSITIVE_INFINITY);		// inf - inf = NaN
-        System.out.println(Double.NEGATIVE_INFINITY * Double.POSITIVE_INFINITY);	// inf * (-inf) = -inf
+//        System.out.println(z); //inf
+//
+//        System.out.println(z / 0);		// +infinity
+//        System.out.println(-2.0f / 0);   // -infinity
+//        System.out.println(2 / 0);		// error - divide by 0
+//        System.out.println(Double.POSITIVE_INFINITY - Double.POSITIVE_INFINITY);		// inf - inf = NaN
+//        System.out.println(Double.NEGATIVE_INFINITY * Double.POSITIVE_INFINITY);	// inf * (-inf) = -inf
 		
 		/*boolean a;
 		int b;
 		a = b;
-		System.out.println(aux * z);	// EROARE: Cannot convert bollean to int
+		System.out.println(aux * z);	// ERR: Cannot convert boolean to int
 		*/
 
-
+        f=222.54324214135f; //it cuts the decimals to max 5
+        System.out.println(f);
+        f=f+2.55115115532555f;
+        System.out.println(f);
     }
 
 }

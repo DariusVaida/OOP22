@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbb11494-f13d-4e91-ae36-4065ad621292" name="Changes" comment="Lab01-6.3" />
+    <list default="true" id="dbb11494-f13d-4e91-ae36-4065ad621292" name="Changes" comment="Lab01-6.3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +68,7 @@
       <updated>1665730954724</updated>
       <workItem from="1665730956213" duration="5412000" />
       <workItem from="1666291971796" duration="1715000" />
+      <workItem from="1666293708155" duration="1758000" />
     </task>
     <task id="LOCAL-00001" summary="Lab01-6.2">
       <created>1665734388487</created>
@@ -101,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666293644994</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab01-6.3">
+      <created>1666293794956</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666293794956</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +129,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Lab01" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
