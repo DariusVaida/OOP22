@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbb11494-f13d-4e91-ae36-4065ad621292" name="Changes" comment="Lab01-6.2" />
+    <list default="true" id="dbb11494-f13d-4e91-ae36-4065ad621292" name="Changes" comment="Lab01-6.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lab01" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +42,19 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665730954724</updated>
       <workItem from="1665730956213" duration="5412000" />
-      <workItem from="1666291971796" duration="1428000" />
+      <workItem from="1666291971796" duration="1715000" />
     </task>
     <task id="LOCAL-00001" summary="Lab01-6.2">
       <created>1665734388487</created>
@@ -67,7 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665734693575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab01-6.3">
+      <created>1666293485372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666293485372</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab01-6.3">
+      <created>1666293572147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666293572147</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab01-6.3">
+      <created>1666293644994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666293644994</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +118,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/Lab01" />
+                        <option value="Lab01" />
                       </list>
                     </value>
                   </entry>
@@ -98,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab01-6.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab01-6.2" />
+    <MESSAGE value="Lab01-6.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab01-6.3" />
   </component>
 </project>
